@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/56834559/147091203-b7919889-75cf-4831-ba64-9e027195d199.png)
+![image](https://user-images.githubusercontent.com/56834559/147091571-2f997c01-62b7-4793-af06-8da12d624636.png)
 
 
 Converse is a real-time application using web sockets where one can chat 
@@ -60,13 +60,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Feed: 
 
-![image](https://user-images.githubusercontent.com/56834559/147090553-d7c73913-a7ec-4c3e-800b-f1ffc0e464c1.png)
+![image](https://user-images.githubusercontent.com/56834559/147091571-2f997c01-62b7-4793-af06-8da12d624636.png)
 
-![image](https://user-images.githubusercontent.com/56834559/147090598-2af8a911-829f-4a06-b759-ef36031479b4.png)
+![image](https://user-images.githubusercontent.com/56834559/147091785-5edd972c-556f-4bde-8cde-9a49ae823dae.png)
 
 ### Login/Registration Page
 
-![image](https://user-images.githubusercontent.com/56834559/147090965-c11916a0-8d34-4fed-a022-83f6db473d3a.png)
+![image](https://user-images.githubusercontent.com/56834559/147091866-829bac32-56be-4f98-a85b-f541027fb829.png)
 
 
 ### REST API:
