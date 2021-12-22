@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/56834559/147091134-18457fec-0866-4522-b967-d66ac39a53ab.png)
+![image](https://user-images.githubusercontent.com/56834559/147091203-b7919889-75cf-4831-ba64-9e027195d199.png)
 
 
 Converse is a real-time application using web sockets where one can chat 
