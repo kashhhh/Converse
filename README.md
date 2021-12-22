@@ -82,6 +82,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Contact
 
-Aakash Rajpurkar - [LinkedIn](https://www.linkedin.com/in/aakash-rajpurkar-8759b0214/ - rajpurkaraakash@gmail.com
+Aakash Rajpurkar - [LinkedIn](https://www.linkedin.com/in/aakash-rajpurkar-8759b0214/) - rajpurkaraakash@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
