@@ -55,16 +55,19 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Screenshots
 
-#### Feed: 
+### Feed: 
+
 ![image](https://user-images.githubusercontent.com/56834559/147090553-d7c73913-a7ec-4c3e-800b-f1ffc0e464c1.png)
 
 ![image](https://user-images.githubusercontent.com/56834559/147090598-2af8a911-829f-4a06-b759-ef36031479b4.png)
 
 ### Login/Registration Page
+
 ![image](https://user-images.githubusercontent.com/56834559/147090965-c11916a0-8d34-4fed-a022-83f6db473d3a.png)
 
 
 ### REST API:
+
 ![image](https://user-images.githubusercontent.com/56834559/147090646-4d30f117-adc5-47d7-92f3-cca7725dfbb1.png)
 
 
