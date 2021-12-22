@@ -4,13 +4,13 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><b>Table of Contents<b></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a> 
      <li><a href="#built-with">Built With</a></li>
      <li>
-       <a href="#features">Screenshots</a>
+       <a href="#screenshots">Screenshots</a>
      </li> 
     <li><a href="#contact">Contact</a></li>
   </ol>
